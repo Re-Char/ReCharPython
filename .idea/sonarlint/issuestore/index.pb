@@ -10,5 +10,5 @@
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
 <
 test/name.py,2\9\29237fd4746ec3148d98040a453257bd5e87116c
-B
-test/parlidrome.py,8\c\8c31c6783af2b11c64e5df4d7c05228cc253c78d
+=
+test/guess.py,a\e\aea0c325e97c80202945bfba945fbbe70a216428
