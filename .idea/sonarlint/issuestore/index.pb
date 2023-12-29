@@ -12,3 +12,11 @@
 test/name.py,2\9\29237fd4746ec3148d98040a453257bd5e87116c
 =
 test/guess.py,a\e\aea0c325e97c80202945bfba945fbbe70a216428
+;
+test/sum.py,0\6\0629360f6fefbe0ea8e4b0b4d9ef4e29b558a482
+C
+test/count_alpha.py,6\c\6c226f12722b04cc26cddd6940b8dd4ff3b9c975
+F
+test/multiple_table.py,2\0\209d8b9cc311fbe547f52c8b32ba393e7fb93127
+?
+test/sum_cpl.py,6\8\68f46d9206202ad01d7fce4caa246ed2ca17132a
