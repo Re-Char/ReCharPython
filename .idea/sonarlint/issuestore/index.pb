@@ -20,3 +20,7 @@ F
 test/multiple_table.py,2\0\209d8b9cc311fbe547f52c8b32ba393e7fb93127
 ?
 test/sum_cpl.py,6\8\68f46d9206202ad01d7fce4caa246ed2ca17132a
+F
+test/absolute_prime.py,c\0\c07702fc99263cc56f0be659fc673fbba28fef5e
+=
+test/radix.py,f\5\f5c81b33158394148b5591008581f64d7a5b885a

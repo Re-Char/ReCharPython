@@ -1,7 +1,7 @@
 def digits(n, t):
     digit = 0
-    for i in range(n):
-        digit += 10 ** i * t
+    for i1 in range(n):
+        digit += 10 ** i1 * t
     return digit
 
 
