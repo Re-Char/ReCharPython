@@ -24,3 +24,15 @@ F
 test/absolute_prime.py,c\0\c07702fc99263cc56f0be659fc673fbba28fef5e
 =
 test/radix.py,f\5\f5c81b33158394148b5591008581f64d7a5b885a
+;
+test/OJ1.py,f\9\f9f0be78081e5a20dc178b74fcc51c8d0e06d9ae
+?
+test/lolipop.py,6\c\6cd100f4c733dec84ea29b2902dc37a4f1ff5600
+F
+test/max_difference.py,3\9\39f32d9100c7a1d438889bb4ac5f33314ebe0fef
+B
+test/old_friend.py,8\f\8f11a9d9f118f1fbafed8f6198ba91bcec8f9f24
+K
+test/histogram_of_grades.py,b\7\b7ad83355161234642cec703ff0bd3bc2b80ff03
+G
+test/sky_no_two_suns.py,6\f\6f81d1e93e98532456d4fa2acd6fae9f951ec635
