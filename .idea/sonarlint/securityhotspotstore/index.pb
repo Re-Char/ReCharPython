@@ -36,3 +36,7 @@ K
 test/histogram_of_grades.py,b\7\b7ad83355161234642cec703ff0bd3bc2b80ff03
 G
 test/sky_no_two_suns.py,6\f\6f81d1e93e98532456d4fa2acd6fae9f951ec635
+<
+test/argv.py,b\6\b611f43a13f0fe17743a057af1b72836561cf424
+@
+test/str_argv.py,0\7\078f084c3bae9dfc4153c6e177caf55c868f6ed8
