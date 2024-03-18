@@ -21,7 +21,7 @@ txt.write(line1)
 txt.write("\n")
 txt.write(line2)
 txt.write("\n")
-txt.write(line2)
+txt.write(line3)
 txt.write("\n")
 
 txt = open(filename, 'r')
