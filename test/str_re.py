@@ -1,0 +1,13 @@
+import re
+s = input()
+s = re.sub('yo|shi', '4', s)
+s = re.sub('go|ko|ga|ka', '5', s)
+s = re.sub('mi|sa|ka', '3', s)
+s = re.sub('ya|ha', '8', s)
+s = s.replace('ku', '9')
+s = s.replace('to', '10')
+s = s.replace('ro', '6')
+s = s.replace('ni', '2')
+s = s.replace('na', '7')
+s = s.replace('i', '1')
+print(s)
